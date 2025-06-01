@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Java Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kaif0705](https://github.com/kaif0705?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/kaif0705?tab=repositories)
 
 - 💬 Ask me about **Java, Spring Boot, RESTful APIs, PostgreSQL, Kubernetes**
 
