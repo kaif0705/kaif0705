@@ -210,6 +210,12 @@
       alt="Linux"
     />
   </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"
+      alt="Hibernate ORM"
+    />
+  </a>
 </p>
 
 <!-- Slim horizontal separator -->
