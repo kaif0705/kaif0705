@@ -14,7 +14,7 @@
 
 ###
 
-- 🔭 I’m currently working on Microservice Application]([https://github.com/kaif0705/HealthCare/tree/master](https://github.com/kaif0705/sb-eCom/tree/microservices))
+- 🔭 I’m currently working on [Microservice Application](https://github.com/kaif0705/sb-eCom/tree/microservices)
 
 - 🌱 I’m currently learning **Java Full-Stack Development**
 
